@@ -1,5 +1,6 @@
 
 # Funkcja, która liczy y 
+# komentarz
 
 new_f <- function(x){
   
